@@ -1,5 +1,12 @@
 # Trying out COBOl in 2023
 
+Basic CRUD application
+ * Create student record
+ * Retrieve all students
+ * Update student information
+ * Delete application
+ * Create report?
+
 All examples built with GNU COBOL
 
 * `hello.cob` - Hello World
