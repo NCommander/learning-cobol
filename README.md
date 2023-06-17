@@ -3,6 +3,9 @@
 All examples built with GNU COBOL
 
 * `hello.cob` - Hello World
+* `sum.cob` - Add up the sum of all numbers`
+* `file_test.cob` - Writes out a record to a file
+* `read_students.cob` - writes database entries for students in and out
 
 Things To Do:
  * Do basic language tasks
